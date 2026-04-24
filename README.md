@@ -6,6 +6,11 @@ This project is an interactive, real-time simulation of a glowing, filament-styl
 
 ---
 
+
+## Demo of Output
+<img width="596" height="571" alt="image" src="https://github.com/user-attachments/assets/27de608d-2230-4032-af62-b76077a0a6e6" />
+
+
 ## What is this project about?
 
 - **Visual:** A dense, tangled, glowing galaxy core with purple, green, and white filaments, inspired by real astronomical images.
