@@ -1,4 +1,4 @@
-## Dev/Creator: tubakhxn
+## Dev/Creator: fardosahussein
 
 # Collapsing Mini Galaxy — Hand Gesture Control
 
@@ -7,6 +7,7 @@ This project is an interactive, real-time simulation of a glowing, filament-styl
 ---
 
 ## What is this project about?
+
 - **Visual:** A dense, tangled, glowing galaxy core with purple, green, and white filaments, inspired by real astronomical images.
 - **Interaction:**
   - **Left hand:** Move your index finger left/right to rotate the galaxy (spin).
@@ -16,6 +17,7 @@ This project is an interactive, real-time simulation of a glowing, filament-styl
 ---
 
 ## How to run or fork this project
+
 1. **Clone or fork the repository:**
    - Click the "Fork" button on GitHub, or clone with:
      ```
@@ -37,6 +39,7 @@ This project is an interactive, real-time simulation of a glowing, filament-styl
 ---
 
 ## Relevant Wikipedia links
+
 - [Galaxy](https://en.wikipedia.org/wiki/Galaxy)
 - [Computer vision](https://en.wikipedia.org/wiki/Computer_vision)
 - [Hand tracking](https://en.wikipedia.org/wiki/Hand_tracking)
@@ -44,5 +47,3 @@ This project is an interactive, real-time simulation of a glowing, filament-styl
 - [NumPy](https://en.wikipedia.org/wiki/NumPy)
 
 ---
-
-**Made with ❤️ by tubakhxn**
