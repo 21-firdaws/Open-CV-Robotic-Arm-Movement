@@ -2,6 +2,10 @@
 
 **Dev/Creator:** fardosahussein
 
+## Quick Snip look of output
+<img width="690" height="642" alt="image" src="https://github.com/user-attachments/assets/00a36b74-f6eb-4a4b-a530-ce091ab74a88" />
+
+
 ## How to Fork and Run This Repo
 
 1. **Fork this repo** on GitHub (click the "Fork" button at the top right).
